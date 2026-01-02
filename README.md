@@ -1,38 +1,55 @@
 # ☁️ AWS Cloud Studies
 
-Este repositório documenta minha jornada de estudos em **Cloud Computing com AWS**, reunindo laboratórios práticos, anotações e evidências de aprendizado obtidas por meio de cursos, desafios e práticas no console da AWS.
-
-O objetivo principal é consolidar conhecimentos fundamentais e intermediários em nuvem, com foco em **arquitetura, serviços essenciais, boas práticas e operação na AWS**, além de manter um histórico organizado da minha evolução técnica.
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square) ![Status](https://img.shields.io/badge/Status-Em%20Estudo-blue?style=flat-square)
 
 ---
 
-## 🎯 Objetivos do Repositório
+## 🔹 Sobre
 
-- Consolidar conceitos fundamentais de Cloud Computing
-- Praticar serviços da AWS diretamente no console
-- Documentar laboratórios realizados na AWS Skill Builder e outros ambientes
-- Criar um portfólio técnico voltado para estudos e futuras oportunidades profissionais
-- Desenvolver disciplina e organização em projetos técnicos
+Este repositório reúne meus estudos e anotações sobre **Amazon Web Services (AWS)**.  
+O objetivo é manter um guia organizado de estudo, registrar aprendizado e servir como portfólio de Cloud Computing.
 
----
-
-## 🧠 Conteúdos Estudados
-
-Os estudos estão organizados por serviços e temas, incluindo:
-
-- **Amazon EC2** – Instâncias, tipos, zonas de disponibilidade e conceitos de computação
-- **Amazon S3** – Armazenamento de objetos e fundamentos
-- **IAM** – Identidade, permissões e segurança
-- **VPC** – Redes, sub-redes e isolamento
-- **Fundamentos de Cloud Computing** – Alta disponibilidade, escalabilidade e resiliência
-
-Cada pasta contém seu próprio `README.md` com:
-- Descrição do laboratório
-- Objetivo do exercício
-- O que foi praticado
-- Evidências (prints dos labs concluídos)
+Aqui você encontrará **conceitos, exemplos, comandos e boas práticas** de cada serviço estudado.
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## 📚 Conteúdos
 
+Explore os serviços estudados, cada um com seu README detalhado:
+
+| Serviço | Descrição | Link |
+|---------|-----------|------|
+| ![EC2](https://img.icons8.com/color/48/000000/aws-ec2.png) EC2 | Instâncias virtuais, AMIs, Security Groups e comandos básicos | [Acessar](./aws-services/EC2/README.md) |
+| ![S3](https://img.icons8.com/color/48/000000/aws-s3.png) S3 | Armazenamento de objetos, buckets, políticas e boas práticas | [Acessar](./aws-services/S3/README.md) |
+| ![IAM](https://img.icons8.com/color/48/000000/aws-iam.png) IAM | Gestão de usuários, permissões e roles | [Acessar](./aws-services/IAM/README.md) |
+| ![VPC](https://img.icons8.com/color/48/000000/aws-vpc.png) VPC | Redes privadas, subnets, gateways e tabelas de roteamento | [Acessar](./aws-services/VPC/README.md) |
+
+---
+
+## ⚡ Como usar
+
+1. Navegue pelo repositório e abra as pastas dentro de `aws-services`.  
+2. Cada pasta possui um `README.md` com **conceitos, exemplos e comandos**.  
+3. Use como guia de estudo ou referência rápida para AWS.
+
+---
+
+## 🚀 Próximos passos
+
+- Adicionar exemplos práticos e prints de cada serviço.  
+- Criar scripts de teste AWS CLI / SDK.  
+- Expandir o repositório com outros serviços: Lambda, RDS, CloudWatch, etc.  
+
+---
+
+## 📜 Licença
+
+Este projeto está sob a licença **MIT License**.  
+Você pode estudar, usar e contribuir com melhorias.
+
+---
+
+## 🌐 Contato
+
+- GitHub: [EnzoAnthony006](https://github.com/EnzoAnthony006)  
+- LinkedIn: [Enzo Anthony](https://www.linkedin.com/in/enzo-anthony/)
