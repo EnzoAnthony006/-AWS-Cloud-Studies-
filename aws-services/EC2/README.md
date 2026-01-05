@@ -16,8 +16,7 @@ Implantar duas instâncias Amazon EC2 em zonas de disponibilidade diferentes den
 - Criação de uma segunda instância em outra Availability Zone
 - Validação da solução no ambiente do laboratório
 
-## 📷 Evidência
-![Lab concluído](lab-completed.png)
+
 
 ## 🧠 Aprendizados
 - Entendimento prático de regiões e Availability Zones
