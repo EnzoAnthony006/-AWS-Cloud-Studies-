@@ -11,21 +11,23 @@
 Este repositório reúne meus estudos e anotações sobre **Amazon Web Services (AWS)**.  
 O objetivo é manter um **guia de estudo organizado**, registrar meu aprendizado contínuo e também servir como **portfólio de Cloud Computing**.
 
-Inclui conceitos, exemplos, comandos, boas práticas, laboratórios práticos e evidências dos cursos concluídos.
+Inclui conceitos, exemplos, boas práticas e documentação dos serviços estudados.
 
 ---
 
 ## 📚 Conteúdos
 
-Explore os serviços estudados. Cada tópico possui seu próprio `README.md` com explicações detalhadas:
+Explore os serviços estudados. Cada serviço possui seu próprio `README.md` com explicações organizadas:
 
 | Serviço | Descrição | Link |
 |-------|-----------|------|
-| **EC2** | Instâncias virtuais, AMIs, Security Groups e comandos básicos | [Acessar](./estudos/ec2/README.md) |
-| **VPC** | Redes privadas, subnets, gateways e roteamento | [Acessar](./estudos/vpc/README.md) |
-| **Custos** | Modelo de preços da AWS e boas práticas de controle | [Acessar](./estudos/custos/README.md) |
-| **IAM (Lab)** | Criação de usuários, grupos, políticas e permissões | [Acessar](./projetos/iam-lab/README.md) |
-| **VPC na prática** | Laboratório prático de VPC e subnets | [Acessar](./projetos/vpc-pratica/README.md) |
+| **EC2** | Instâncias virtuais, AMIs e Security Groups | [Acessar](./aws-services/EC2/README.md) |
+| **VPC** | Redes privadas, subnets, gateways e roteamento | [Acessar](./aws-services/VPC/README.md) |
+| **VPC Peering** | Comunicação privada entre VPCs | [Acessar](./aws-services/VPC/PEERING/README.md) |
+| **RDS** | Banco de dados relacional gerenciado | [Acessar](./aws-services/RDS/README.md) |
+| **DYNAMODB** | Banco de dados NoSQL serverless | [Acessar](./aws-services/DYNAMODB/README.md) |
+| **IAM** | Usuários, grupos, políticas e permissões | [Acessar](./aws-services/IAM/README.md) |
+| **S3** | Armazenamento de objetos | [Acessar](./aws-services/S3/README.md) |
 
 ---
 
@@ -33,21 +35,19 @@ Explore os serviços estudados. Cada tópico possui seu próprio `README.md` com
 
 | Evidências |
 |-----------|
-| ![Certificado 1](./assets/certificados/screenshot_20260102145843.png) |
-| ![Certificado 2](./assets/certificados/screenshot_20260102161337.png) |
-| ![Certificado 3](./assets/certificados/screenshot_20260102164705.png) |
-| ![Certificado 4](./assets/certificados/screenshot_20260102170838.png) |
-| ![Certificado 5](./assets/certificados/screenshot_20260103173130.png) |
+| ![Certificado AWS 1](./assets/certificados/screenshot_20260105150745.png) |
+| ![Certificado AWS 2](./assets/certificados/screenshot_20260105154734.png) |
+| ![Certificado AWS 3](./assets/certificados/screenshot_20260105172101.png) |
 
-> Obs.: Os prints podem ser substituídos conforme novos cursos forem concluídos.
+> Obs.: As evidências são atualizadas conforme novos cursos e laboratórios AWS são concluídos.
 
 ---
 
 ## ⚡ Como usar
 
-1. Navegue pelas pastas `estudos` e `projetos`.  
-2. Cada serviço ou laboratório possui um `README.md` próprio.  
-3. Utilize este repositório como **material de estudo** e também como **referência prática**.
+1. Navegue pela pasta `aws-services`.  
+2. Cada serviço possui um `README.md` próprio.  
+3. Utilize este repositório como **material de estudo** e **portfólio técnico**.
 
 ---
 
