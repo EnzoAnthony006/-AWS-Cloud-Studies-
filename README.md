@@ -35,9 +35,14 @@ Explore os serviços estudados. Cada serviço possui seu próprio `README.md` co
 
 | Evidências |
 |-----------|
-| ![Certificado AWS 1](./assets/certificados/screenshot_20260105150745.png) |
-| ![Certificado AWS 2](./assets/certificados/screenshot_20260105154734.png) |
-| ![Certificado AWS 3](./assets/certificados/screenshot_20260105172101.png) |
+| ![Certificado AWS 1](./assets/certificados/screenshot_20260102145843.png) |
+| ![Certificado AWS 2](./assets/certificados/screenshot_20260102161337.png) |
+| ![Certificado AWS 3](./assets/certificados/screenshot_20260102164705.png) |
+| ![Certificado AWS 4](./assets/certificados/screenshot_20260102170838.png) |
+| ![Certificado AWS 5](./assets/certificados/screenshot_20260103173130.png) |
+| ![Certificado AWS 6](./assets/certificados/screenshot_20260105150745.png) |
+| ![Certificado AWS 7](./assets/certificados/screenshot_20260105154734.png) |
+| ![Certificado AWS 8](./assets/certificados/screenshot_20260105172101.png) |
 
 > Obs.: As evidências são atualizadas conforme novos cursos e laboratórios AWS são concluídos.
 
