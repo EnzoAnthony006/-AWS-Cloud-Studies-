@@ -45,6 +45,8 @@ Explore os serviços estudados. Cada serviço possui seu próprio `README.md` co
 | ![Certificado AWS 8](./assets/certificados/screenshot_20260105172101.png) |
 | ![Certificado AWS 8](./assets/certificados/screenshot_20260106144532.png) |
 | ![Certificado AWS 8](./assets/certificados/screenshot_20260106151327.png) |
+| ![Certificado AWS 8](./assets/certificados/screenshot_20260106160311.png) |
+
 
 > Obs.: As evidências são atualizadas conforme novos cursos e laboratórios AWS são concluídos.
 
