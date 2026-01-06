@@ -1,7 +1,7 @@
 # ☁️ AWS Cloud Studies
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws)
-![Status](https://img.shields.io/badge/Status-Em%20Estudo-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/EnzoAnthony006/-AWS-Cloud-Studies-?style=flat-square)
 
 ---
@@ -22,12 +22,16 @@ Explore os serviços estudados. Cada serviço possui seu próprio `README.md` co
 | Serviço | Descrição | Link |
 |-------|-----------|------|
 | **EC2** | Instâncias virtuais, AMIs e Security Groups | [Acessar](./aws-services/EC2/README.md) |
+| **EC2 Auto Scaling** | Escalabilidade automática e alta disponibilidade | [Acessar](./aws-services/EC2AUTOSCALING/README.md) |
 | **VPC** | Redes privadas, subnets, gateways e roteamento | [Acessar](./aws-services/VPC/README.md) |
 | **VPC Peering** | Comunicação privada entre VPCs | [Acessar](./aws-services/VPC/PEERING/README.md) |
 | **RDS** | Banco de dados relacional gerenciado | [Acessar](./aws-services/RDS/README.md) |
 | **DYNAMODB** | Banco de dados NoSQL serverless | [Acessar](./aws-services/DYNAMODB/README.md) |
 | **IAM** | Usuários, grupos, políticas e permissões | [Acessar](./aws-services/IAM/README.md) |
+| **IAM Security** | Boas práticas e conceitos de segurança | [Acessar](./aws-services/IAMSECURITY/README.md) |
 | **S3** | Armazenamento de objetos | [Acessar](./aws-services/S3/README.md) |
+| **EFS** | Sistema de arquivos na nuvem | [Acessar](./aws-services/EFS/README.md) |
+| **AZs** | Aplicações Web de Alta Disponibilidade | [Acessar](./aws-services/AZS/README.md) |
 
 ---
 
@@ -43,12 +47,10 @@ Explore os serviços estudados. Cada serviço possui seu próprio `README.md` co
 | ![Certificado AWS 6](./assets/certificados/screenshot_20260105150745.png) |
 | ![Certificado AWS 7](./assets/certificados/screenshot_20260105154734.png) |
 | ![Certificado AWS 8](./assets/certificados/screenshot_20260105172101.png) |
-| ![Certificado AWS 8](./assets/certificados/screenshot_20260106144532.png) |
-| ![Certificado AWS 8](./assets/certificados/screenshot_20260106151327.png) |
-| ![Certificado AWS 8](./assets/certificados/screenshot_20260106160311.png) |
-| ![Certificado AWS 8](./assets/certificados/screenshot_20260106170611.png) |
-
-
+| ![Certificado AWS 9](./assets/certificados/screenshot_20260106144532.png) |
+| ![Certificado AWS 10](./assets/certificados/screenshot_20260106151327.png) |
+| ![Certificado AWS 11](./assets/certificados/screenshot_20260106160311.png) |
+| ![Certificado AWS 12](./assets/certificados/screenshot_20260106170611.png) |
 
 > Obs.: As evidências são atualizadas conforme novos cursos e laboratórios AWS são concluídos.
 
@@ -64,8 +66,7 @@ Explore os serviços estudados. Cada serviço possui seu próprio `README.md` co
 
 ## 📜 Licença
 
-Este projeto está sob a licença **MIT License**.  
-Você pode estudar, usar e se inspirar livremente.
+Este projeto está sob a licença **MIT License**.
 
 ---
 
